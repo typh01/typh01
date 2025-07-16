@@ -98,8 +98,12 @@
 ## 🌟 GitHub Stats & Fun
 
 ### ✍️ Typing Animation
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=백엔드+개발자+박태현입니다.;지속적으로+성장하고+도전합니다!)
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=백엔드+개발자+박태현입니다.;지속적으로+성장하고+도전합니다!" />
+</div>
+
+### 🐱 Octocat
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"/>
 
 ### 📊 GitHub Stats
