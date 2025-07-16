@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Backend%20Developer&fontSize=80&fontAlignY=35&desc=박태현%20Portfolio&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Backend%20Developer&fontSize=80&fontAlignY=35&desc=박태현%20Portfolio&descAlignY=55&descSize=20&color=0:BBFDE3,50:57E0F4,100:A38BFE" />
 </div>
+
 
 <h1 align="center">👋 안녕하세요, 백엔드 개발자 박태현입니다</h1>
 
@@ -113,7 +114,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BBFDE3,50:57E0F4,100:A38BFE&height=120&section=footer"/>
 </div>
 
 <div align="center">
