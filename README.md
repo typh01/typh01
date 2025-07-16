@@ -94,12 +94,6 @@
 
 ---
 
-### 🌈 GitHub Contribution Chart  
-![GitHub Contribution Snake](https://github.com/typh01/typh01/blob/output/github-contribution-grid-snake.svg)  
-> 위 기능은 GitHub Actions로 자동 생성되며, 설정 방법이 필요하시면 도와드립니다.
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 </p>
