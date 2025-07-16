@@ -64,7 +64,7 @@
 
 | 프로젝트명 | 주요 기능 | 담당 역할 | 기술 스택 | GitHub |
 |------------|-----------|------------|------------|--------|
-| **WeGoJapan**<br/>일본 여행지 플래너 플랫폼 | - Google Maps API 기반 여행지 시각화 및 검색<br/>- 단계별 여행 계획 작성 및 저장<br/>- 여행지 등록, 리뷰 작성 및 S3 이미지 업로드<br/>- 실시간 1:1 채팅 (WebSocket + STOMP)<br/>- GitHub Actions 기반 EC2 자동 배포 | - 여행지 및 리뷰 관련 기능 개발<br/>- 이미지 S3 업로드 처리<br/>- 여행 계획 관련 API 구현<br/>- WebSocket 실시간 채팅 및 CI/CD 구축 | Java 21, Spring Boot, MyBatis, Oracle DB<br/>React 19, Tailwind CSS, AWS EC2/S3, GitHub Actions, WebSocket, STOMP | [🔗 백엔드](https://github.com/typh01/wegojapan-back-ci-cd)<br/>[🔗 프론트엔드](https://github.com/typh01/wegojapan-front-ci-cd) |
+| **WeGoJapan**<br/>일본 여행지 플래너 플랫폼 | - Google Maps API 기반 여행지 시각화 및 검색<br/>- 단계별 여행 계획 작성 및 저장<br/>- 여행지 등록, 리뷰 작성 및 S3 이미지 업로드<br/>- 실시간 1:1 채팅 (WebSocket + STOMP)<br/>- GitHub Actions 기반 EC2 자동 배포 | - 여행지 및 리뷰 관련 기능 개발<br/>- 이미지 S3 업로드 처리<br/>- 여행 계획 관련 API 구현<br/>- Docker + GitHub Actions 자동 배포 파이프라인 구축 | Java 21, Spring Boot, MyBatis, Oracle DB<br/>React 19, Tailwind CSS, AWS EC2/S3, GitHub Actions, WebSocket, STOMP | [🔗 백엔드](https://github.com/typh01/wegojapan-back-ci-cd)<br/>[🔗 프론트엔드](https://github.com/typh01/wegojapan-front-ci-cd) |
 | **EVCS**<br/>전기차 커뮤니티 & 충전소 플랫폼 | - 뉴스 및 댓글 CRUD<br/>- 좋아요 / 신고 / 차단 기능<br/>- JWT 기반 인증 및 권한 분리<br/>- S3 이미지 업로드<br/>- GitHub Actions 기반 EC2 자동 배포 | - 뉴스 및 게시판 관련 기능 구현<br/>- 댓글 신고, 차단, 좋아요 기능 개발<br/>- Spring Security 기반 인증/인가 적용<br/>- Docker + GitHub Actions 자동 배포 파이프라인 구축 | Java, Spring Boot, MyBatis, Oracle DB<br/>React, Tailwind CSS, AWS EC2/S3, GitHub Actions | [🔗 백엔드](https://github.com/typh01/evcs-back-ci-cd)<br/>[🔗 프론트엔드](https://github.com/typh01/evcs-front-ci-cd) |
 
 ---
