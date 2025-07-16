@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Backend%20Developer&fontSize=80&fontAlignY=35&desc=박태현%20Portfolio&descAlignY=55&descSize=20&color=0:BBFDE3,50:57E0F4,100:A38BFE&textColor=FFFFFF&descColor=F5F5F5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=DevOps%20Developer&fontSize=80&fontAlignY=35&desc=박태현%20Portfolio&descAlignY=55&descSize=20&color=0:BBFDE3,50:57E0F4,100:A38BFE&textColor=2D3748&descColor=4A5568" />
 </div>
 
 
-<h1 align="center">👋 안녕하세요, 백엔드 개발자 박태현입니다</h1>
+<h1 align="center">👋 안녕하세요, DevOps 개발자 박태현입니다</h1>
 
 <p align="center">
   <strong>끊임없이 배우고 도전하며 기본기와 실무 역량을 동시에 갖춘 개발자를 지향합니다.</strong><br/>
